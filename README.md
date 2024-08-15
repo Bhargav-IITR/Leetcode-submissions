@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0312-burst-balloons](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0312-burst-balloons) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0312-burst-balloons](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0312-burst-balloons) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Sorting
 |  |
