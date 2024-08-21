@@ -11,17 +11,16 @@
  */
 class Solution {
 public:
-    long long mi = -1e10, ma = 1e10;
-    bool validBST(TreeNode* root, long long min , long long max){
-        if(root == NULL) return true;
-        if(root->val >= max) return false;
-        if(root->val <= min) return false;
-        bool cnd1 = validBST(root->left, min, root->val);
-        bool cnd2 = validBST(root->right, root->val, max);
-        return cnd1 && cnd2;
+    long long int mi = -1e10, ma = 1e10;
+    bool func(TreeNode* root, long long int mini, long long int maxi){
+        if(!root) return true;
+        if(root->val <= mini) return false;
+        if(root->val >= maxi) return false;
+        bool c1 = func(root->left, mini, root->val);
+        bool c2 = func(root->right, root->val, maxi);
+        return c1&&c2;
     }
     bool isValidBST(TreeNode* root) {
-        bool ans = validBST(root, mi, ma);
-        return ans;        
+        return func(root, mi, ma);
     }
 };
