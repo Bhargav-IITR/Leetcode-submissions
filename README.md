@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
+| [1036-rotting-oranges](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1130-last-stone-weight-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1130-last-stone-weight-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [1036-rotting-oranges](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 ## Prefix Sum
 |  |
 | ------- |
