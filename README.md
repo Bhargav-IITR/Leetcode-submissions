@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0496-next-greater-element-i](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0735-asteroid-collision](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1036-rotting-oranges) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0132-palindrome-partitioning-ii) |
 | [0312-burst-balloons](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0312-burst-balloons) |
+| [0542-01-matrix](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1130-last-stone-weight-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1130-last-stone-weight-ii) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 ## Binary Tree
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0542-01-matrix](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 ## Prefix Sum
 |  |
