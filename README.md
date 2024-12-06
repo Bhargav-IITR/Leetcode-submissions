@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0127-word-ladder](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0132-palindrome-partitioning-ii) |
+| [0214-shortest-palindrome](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0686-repeated-string-match](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0686-repeated-string-match) |
@@ -230,5 +231,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0686-repeated-string-match) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
