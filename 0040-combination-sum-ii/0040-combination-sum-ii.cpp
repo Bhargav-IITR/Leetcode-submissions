@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<int>> ans;
     void func(int i, int target, vector <int> &c, vector <int> &temp){
-        if(0 == target){
+        if(target == 0){
             ans.push_back(temp);
             return;
         }
@@ -12,7 +12,7 @@ public:
             if(j != i && c[j] == c[j-1]) continue;
             if(target < c[j]) break;
             temp.push_back(c[j]);
-            func(i+1, target-c[j], c, temp);
+            func(j+1, target-c[j], c, temp);
             temp.pop_back();
         }
         
