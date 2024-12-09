@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0132-palindrome-partitioning-ii) |
 | [0312-burst-balloons](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0312-burst-balloons) |
 | [0542-01-matrix](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0542-01-matrix) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0127-word-ladder](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0132-palindrome-partitioning-ii) |
 | [0214-shortest-palindrome](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -253,4 +255,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0040-combination-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
