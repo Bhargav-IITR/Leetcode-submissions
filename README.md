@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0239-sliding-window-maximum) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## String
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0141-linked-list-cycle) |
 ## Simulation
 |  |
