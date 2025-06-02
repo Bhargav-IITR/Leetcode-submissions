@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0050-powx-n) |
 | [1197-parsing-a-boolean-expression](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1197-parsing-a-boolean-expression) |
 ## Design
 |  |
@@ -266,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
