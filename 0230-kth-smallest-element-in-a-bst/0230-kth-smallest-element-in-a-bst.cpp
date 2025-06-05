@@ -23,9 +23,24 @@ public:
         return NULL;
     }
 
+    int ans = 0;
+    void inorder(TreeNode* root, int &cnt, int k){
+        if(!root) return;
+        if(cnt >= k) return;
+        inorder(root->left, cnt, k);
+        cnt++;
+        if(cnt == k) ans = root->val;
+        inorder(root->right, cnt, k);
+    }
+
+    // int kthSmallest(TreeNode* root, int k) {
+    //     int *num = new int();
+    //     TreeNode* ans = func(root,k,num);
+    //     return (ans)?(ans->val):-1;
+    // }
     int kthSmallest(TreeNode* root, int k) {
-        int *num = new int();
-        TreeNode* ans = func(root,k,num);
-        return (ans)?(ans->val):-1;
+        int cnt = 0;
+        inorder(root, cnt, k);
+        return ans;
     }
 };
