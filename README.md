@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0139-word-break) |
 | [0312-burst-balloons](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0312-burst-balloons) |
 | [0542-01-matrix](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0139-word-break) |
 | [0214-shortest-palindrome](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0402-remove-k-digits) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -308,8 +312,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
