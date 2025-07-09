@@ -2,16 +2,14 @@ class Solution {
 public:
     int dp[105][105];
     int func(int i, int j, vector <int> &cuts){
-        if(j < i) return 0;
-        if(dp[i][j] != -1) return dp[i][j];
-        int ans = INT_MAX;
+        if(i > j) return 0;
+        if(dp[i][j]!=-1) return dp[i][j];
+        int cost = INT_MAX;
         for(int k = i ; k <= j ; k++){
-            int len = cuts[j+1]-cuts[i-1];
-            int left = func(i,k-1, cuts);
-            int right = func(k+1,j,cuts);
-            ans = min(ans, len+left+right);
+            int x = cuts[j+1]-cuts[i-1] + func(i, k-1, cuts) + func(k+1, j, cuts);
+            cost = min(cost, x);
         }
-        return dp[i][j] = ans;
+        return dp[i][j] = cost;
     }
 
     int minCost(int n, vector<int>& cuts) {  
