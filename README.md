@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0139-word-break) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0287-find-the-duplicate-number](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
