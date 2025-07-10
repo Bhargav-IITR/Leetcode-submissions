@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0744-network-delay-time](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0744-network-delay-time) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0686-repeated-string-match) |
 ## Rolling Hash
 |  |
@@ -302,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 ## Linked List
 |  |
 | ------- |
