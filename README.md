@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0076-minimum-window-substring](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0132-palindrome-partitioning-ii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0139-word-break) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
