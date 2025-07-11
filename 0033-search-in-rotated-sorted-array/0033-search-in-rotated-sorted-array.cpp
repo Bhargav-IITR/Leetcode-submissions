@@ -9,12 +9,12 @@ public:
             int mid = l + (r-l) / 2;
             if (nums[mid] == target)
                 return mid;
-			// with duplicates we can have this contdition, just update left & right
-            if((nums[l] == nums[mid]) && (nums[r] == nums[mid]))
-            {
-                l++;
-                r--;
-            }
+			// // with duplicates we can have this contdition, just update left & right
+            // if((nums[l] == nums[mid]) && (nums[r] == nums[mid]))
+            // {
+            //     l++;
+            //     r--;
+            // }
 			// first half
 			// first half is in order
             else if(nums[l] <= nums[mid])
