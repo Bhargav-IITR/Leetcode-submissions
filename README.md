@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0239-sliding-window-maximum) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0721-accounts-merge](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0721-accounts-merge) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0169-majority-element) |
 ## Memoization
 |  |
 | ------- |
@@ -384,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0146-lru-cache) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
