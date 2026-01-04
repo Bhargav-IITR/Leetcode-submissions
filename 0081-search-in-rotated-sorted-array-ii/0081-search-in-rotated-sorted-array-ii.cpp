@@ -1,23 +1,20 @@
 class Solution {
 public:
     bool search(vector<int>& nums, int target) {
-        int lo = 0, hi = nums.size()-1;
-        int n = nums.size();
-        while(lo <= hi){
-            int mid = (lo+hi)/2;
+        int i = 0, j = nums.size()-1;
+        while(i <= j){
+            int mid = i + (j-i)/2;
             if(nums[mid] == target) return true;
-            if(nums[hi] == nums[mid]){
-                hi--;
-                continue;
-            }
-            if(nums[lo] <= nums[mid]){
-                //left part sorted
-                if(nums[lo] <= target && target <= nums[mid]) hi = mid-1;
-                else lo = mid+1;
-            }
-            else{
-                if(nums[mid] <= target && target <= nums[hi]) lo = mid+1;
-                else hi = mid-1;
+            if(nums[i] == nums[mid] && nums[mid] == nums[j]){
+                i++, j--;
+            }else{
+                if(nums[i] <= nums[mid]){
+                    if(nums[i] <= target && target <= nums[mid]) j = mid-1;
+                    else i = mid+1;
+                }else{
+                    if(nums[mid] <= target && target <= nums[j]) i = mid+1;
+                    else j = mid-1;
+                }
             }
         }
         return false;
