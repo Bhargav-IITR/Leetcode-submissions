@@ -1,39 +1,22 @@
 class Solution {
 public:
-    int search(vector<int>& nums, int target) {
-        int l = 0;
-        int r = nums.size() - 1;
-        
-        while(l <= r)
-        {
-            int mid = l + (r-l) / 2;
-            if (nums[mid] == target)
-                return mid;
-			// // with duplicates we can have this contdition, just update left & right
-            // if((nums[l] == nums[mid]) && (nums[r] == nums[mid]))
-            // {
-            //     l++;
-            //     r--;
-            // }
-			// first half
-			// first half is in order
-            else if(nums[l] <= nums[mid])
-            {
-				// target is in first  half
-                if((nums[l] <= target) && (nums[mid] > target))
-                    r = mid - 1;
-                else
-                    l = mid + 1;
-            }
-			// second half
-			// second half is order
-			// target is in second half
-            else
-            {
-                if((nums[mid] < target) && (nums[r]>= target))
-                    l = mid + 1;
-                else
-                    r = mid - 1;
+    int search(vector<int>& arr, int target) {
+        int n = arr.size();
+        int i = 0, j = n-1;
+        while(i <= j){
+            int mid = i + (j-i)/2;
+            if(arr[mid] == target) return mid;
+            if(arr[0] < arr[n-1]){ // not rotated
+                if(target < arr[mid]) j = mid-1;
+                else i = mid+1;
+            }else{
+                if(arr[mid] < arr[0]){ // right half
+                    if(target > arr[mid] && target < arr[0]) i = mid+1;
+                    else j = mid-1;
+                }else{ // left half
+                    if(target < arr[mid] && target > arr[n-1]) j = mid-1;
+                    else i = mid+1;
+                }
             }
         }
         return -1;
