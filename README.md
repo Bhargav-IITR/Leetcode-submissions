@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0496-next-greater-element-i](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0721-accounts-merge) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0450-delete-node-in-a-bst](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0450-delete-node-in-a-bst) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
