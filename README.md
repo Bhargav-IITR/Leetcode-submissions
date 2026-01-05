@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0735-asteroid-collision) |
+| [0875-koko-eating-bananas](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1121-partition-array-for-maximum-sum) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0875-koko-eating-bananas](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Union Find
 |  |
