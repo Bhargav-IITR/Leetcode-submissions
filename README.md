@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0040-combination-sum-ii) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0169-majority-element) |
