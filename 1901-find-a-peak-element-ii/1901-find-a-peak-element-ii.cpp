@@ -1,31 +1,26 @@
 class Solution {
 public:
-    int maxInCol(vector <vector <int>> &a, int col){
-        int id = 0, m = INT_MIN;
-        for(int r = 0 ; r < a.size() ; r++){
-            if(a[r][col] > m){
-                id = r;
-                m = a[r][col];
+    int findPeakRow(vector <int> &row){
+        int i = 0, maxi = INT_MIN;
+        for(int j = 0 ; j < row.size() ; j++){
+            if(row[j] > maxi){
+                maxi = row[j];
+                i = j;
             }
         }
-        return id;
+        return i;
     }
-    vector<int> findPeakGrid(vector<vector<int>>& nums) {
-        int lo = 0 , hi = nums[0].size();
-        int n = nums[0].size();
+    vector<int> findPeakGrid(vector<vector<int>>& mat) {
+        int lo = 0, hi = mat.size()-1;
         while(lo <= hi){
-            int c = (lo+hi)/2;
-            int r = maxInCol(nums, c);
-            if((c == 0 || nums[r][c]>nums[r][c-1]) && (c == n-1 || nums[r][c]>nums[r][c+1])){
-                return {r,c};
-            }
-            else if((c == 0 || nums[r][c]>nums[r][c-1]) && (c != n-1 && nums[r][c] < nums[r][c+1])){
-                lo = c+1;
-            }
-            else if((c != 0 && nums[r][c] < nums[r][c-1]) && (c == n-1 || nums[r][c]>nums[r][c+1])){
-                hi = c-1;
-            }
-            else hi = c-1;
+            int mid = lo + (hi-lo)/2;
+            int i = findPeakRow(mat[mid]);
+            int top = (mid == 0) ? -1 : mat[mid-1][i];
+            int down = (mid == mat.size()-1) ? -1 : mat[mid+1][i];
+            if((top < mat[mid][i]) && (mat[mid][i] > down)) return {mid, i};
+            else if((top > mat[mid][i]) && (mat[mid][i] > down)) hi = mid-1;
+            else if((top < mat[mid][i]) && (mat[mid][i] < down)) lo = mid+1;
+            else lo = mid+1;
         }
         return {};
     }
