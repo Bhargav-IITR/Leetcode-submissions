@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [1021-remove-outermost-parentheses](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1197-parsing-a-boolean-expression) |
+| [1903-largest-odd-number-in-string](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0060-permutation-sequence) |
 | [0371-sum-of-two-integers](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0371-sum-of-two-integers) |
+| [1903-largest-odd-number-in-string](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
