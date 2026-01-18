@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1197-parsing-a-boolean-expression) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Bucket Sort
 |  |
 | ------- |
