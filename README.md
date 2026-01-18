@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [1021-remove-outermost-parentheses](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1197-parsing-a-boolean-expression) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1197-parsing-a-boolean-expression) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/2227-sum-of-subarray-ranges) |
 ## Recursion
 |  |
