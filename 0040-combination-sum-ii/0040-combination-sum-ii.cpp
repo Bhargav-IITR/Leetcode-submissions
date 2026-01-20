@@ -1,26 +1,25 @@
 class Solution {
 public:
     vector <vector <int>> ans;
-    void func(int id, vector <int> &temp, vector <int> &c, int target){
+    void func(int i, vector <int> &c, int target, vector <int> tmp){
+        int n = c.size();
         if(target == 0){
-            ans.push_back(temp);
+            ans.push_back(tmp);
             return;
         }
-        if(target < 0) return;
-        if(id == c.size()) return;
-        //not take:
-        int k = id;
-        while(k < c.size() && c[k] == c[id]) k++;
-        func(k, temp, c, target);
-        //take:
-        temp.push_back(c[id]);
-        func(id+1, temp, c, target-c[id]);
-        temp.pop_back();
+        if(i == n) return;
+        if(c[i] <= target){
+            tmp.push_back(c[i]);
+            func(i+1, c, target-c[i], tmp);
+            tmp.pop_back();
+        }
+        while(i+1 < n && (c[i] == c[i+1])) i++;
+        func(i+1, c, target, tmp);
     }
     vector<vector<int>> combinationSum2(vector<int>& c, int target) {
-        vector <int> temp;
         sort(c.begin(), c.end());
-        func(0, temp, c, target);
+        vector <int> tmp;
+        func(0, c, target, tmp);
         return ans;
     }
 };
