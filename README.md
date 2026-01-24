@@ -409,12 +409,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0371-sum-of-two-integers) |
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0060-permutation-sequence) |
 | [0371-sum-of-two-integers](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0371-sum-of-two-integers) |
