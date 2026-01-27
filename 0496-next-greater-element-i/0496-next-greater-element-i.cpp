@@ -1,18 +1,20 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        map <int,int> nge;
-        stack <int> st;
-        for(int i = nums2.size()-1 ; i >= 0 ; i--){
-            while(!st.empty() && st.top() <= nums2[i]){
+        stack <int> st; // monotonic stack
+        int n = nums2.size();
+        map<int,int> mp;
+        for(int i = n-1 ; i>=0 ;i--){
+            while(!(st.empty()) && nums2[st.top()] <= nums2[i]){
                 st.pop();
             }
-            nge[nums2[i]] = (st.empty())?-1:st.top();
-            st.push(nums2[i]);
+            if(!st.empty()) mp[nums2[i]] = st.top();
+            st.push(i);
         }
-        vector <int> ans;
-        for(int num:nums1){
-            ans.push_back(nge[num]);
+        vector<int> ans;
+        for(auto it : nums1){
+            if(mp.find(it) != mp.end()) ans.push_back(nums2[mp[it]]);
+            else ans.push_back(-1);
         }
         return ans;
     }
