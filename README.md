@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1901-find-a-peak-element-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2227-sum-of-subarray-ranges](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/2227-sum-of-subarray-ranges) |
 ## Dynamic Programming
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-last-stone-weight-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1130-last-stone-weight-ii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1901-find-a-peak-element-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Union Find
 |  |
 | ------- |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Graph
 |  |
 | ------- |
@@ -437,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0371-sum-of-two-integers) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Math
 |  |
 | ------- |
@@ -486,4 +492,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
