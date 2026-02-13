@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1539-kth-missing-positive-number) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1901-find-a-peak-element-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1121-partition-array-for-maximum-sum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1130-last-stone-weight-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1130-last-stone-weight-ii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sorting
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## String
 |  |
