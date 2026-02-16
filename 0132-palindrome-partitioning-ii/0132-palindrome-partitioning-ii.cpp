@@ -1,37 +1,42 @@
 class Solution {
-public:
-    int isPal[2005][2005];
-    void constructIsPal(string &s){
+public: 
+    int dp[2001][2001];
+    #define ll long long 
+    vector <vector <int>> pal(string &s){
         int n = s.length();
-        for(int i = 0 ; i < n ; i++) isPal[i][i] = 1;
-        for(int i = 0 ; i <n-1; i++) isPal[i][i+1] = (s[i] == s[i+1]);
-        for(int len = 3 ; len <= n ; len++){
+        vector <vector <int>> ans(n, vector <int> (n, 0));
+        for(int len = 1 ; len <= n ; len++){
             for(int i = 0 ; i < n ; i++){
-                int j = i + len - 1;
-                if(j < n) isPal[i][j] = (s[i] == s[j] && isPal[i+1][j-1]);
+                int j = i+len-1;
+                if(j<n){
+                    if(i == j) ans[i][j] = 1;
+                    else if(j-i == 1) ans[i][j] = (s[i] == s[j]);
+                    else{
+                        ans[i][j] = ((s[i] == s[j]) & (ans[i+1][j-1] == 1));
+                    }
+                }
             }
         }
+        return ans;
     }
-
-    int dp[2005];
-    
-    int func(int i, string &s){
-        if(i == s.length()) return 0;
-        if(dp[i] != -1) return dp[i];
-        int ans = INT_MAX;
-        for(int j = i ; j < s.length() ; j++){
-            if(isPal[i][j]){
-                ans = min(ans, 1 + func(j+1, s));
+    ll func(string &s, int i, int j, vector <vector<int>> &p){
+        if(i >= j) return 0;
+        if(p[i][j]) return 0;   // key fix
+        if(dp[i][j] != -1) return (ll)dp[i][j];
+        ll ans = INT_MAX;
+        for(int k = i ; k <= j ; k++){
+            if(p[i][k] == 1){
+                ans = min(ans, 1 + func(s, k+1, j, p));
             }
         }
-        return dp[i] = ans;
+        dp[i][j] = (int)((ans >= INT_MAX) ? INT_MAX:ans);
+        return (ll)dp[i][j];
     }
-
     int minCut(string s) {
-        memset(dp,-1,sizeof(dp));
-        constructIsPal(s);
-        int n = s.length();
-        if(isPal[0][n-1] == 1) return 0;
-        return func(0, s)-1;
+        vector <vector <int>> p = pal(s);
+        memset(dp, -1, sizeof(dp));
+        if(p[0][s.length()-1] == 1) return 0;
+        int ans = func(s, 0, s.length()-1, p);
+        return ans;
     }
 };
