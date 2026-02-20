@@ -13,14 +13,15 @@ class Solution {
 public:
     int ans = INT_MIN;
     int func(TreeNode* root){
-        if(root == NULL) return 0;
-        int left = max(0, func(root->left));
-        int right = max(0, func(root->right));
-        ans = max(ans, root->val + left + right);
-        return root->val + max(left, right);
+        if(!root) return 0;
+        int left = func(root->left);
+        int right = func(root->right);
+        int temp = max(root->val, max(left+root->val, max(right+root->val, left+right+root->val)));
+        ans = max(ans, temp);
+        return max(root->val, max(left+root->val, right+root->val));
     }
     int maxPathSum(TreeNode* root) {
-        int x = func(root);
+        func(root);
         return ans;
     }
 };
