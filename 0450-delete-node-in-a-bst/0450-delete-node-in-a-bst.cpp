@@ -11,37 +11,35 @@
  */
 class Solution {
 public:
-    TreeNode* helper(TreeNode* node){ // node - nnode to delete
+    TreeNode* deleteHelp(TreeNode* node){
         if(!node->left) return node->right;
         if(!node->right) return node->left;
-        TreeNode* r = node->right;
-        TreeNode* l = node->left;
-        TreeNode* newRoot = node->left;
-        while(l->right){
-            l = l->right;
+        TreeNode* left = node->left;
+        TreeNode* right = node->right;
+        TreeNode* toReturn = left;
+        while(left->right){
+            left = left->right;
         }
-        l->right = r;
-        delete(node);
-        return newRoot;
+        left->right = right;
+        return toReturn;
     }
     TreeNode* deleteNode(TreeNode* root, int key) {
         if(!root) return NULL;
-        if(root->val == key) return helper(root);
-        TreeNode* temp = root;
-        while(temp){
-            if(temp->val < key){
-                if(temp->right && temp->right->val == key){
-                    temp->right = helper(temp->right);
-                    break;
-                }else temp = temp->right;
-            }
-            else{
-                if(temp->left && temp->left->val == key){
-                    temp->left = helper(temp->left);
-                    break;
-                }else temp = temp->left;
-            }
+        if(key < root->val){
+            root->left = deleteNode(root->left, key);
+            return root;
+        }else if(key > root->val){
+            root->right = deleteNode(root->right, key);
+            return root;
+        }else{
+            if(!root->left) return root->right;
+            if(!root->right) return root->left;
+            TreeNode* right = root->right;
+            TreeNode* left = root->left;
+            TreeNode* toReturn = root->left;
+            while(left->right) left = left->right;
+            left->right = right;
+            return toReturn;
         }
-        return root;
     }
 };
