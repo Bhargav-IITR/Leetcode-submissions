@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-number-of-enclaves](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1121-partition-array-for-maximum-sum) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1300-critical-connections-in-a-network) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1901-find-a-peak-element-ii) |
@@ -574,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
