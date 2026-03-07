@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0744-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0744-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0744-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0744-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -601,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
