@@ -31,7 +31,7 @@ public:
         func(node->left, parent, k-1, ans, vis);
         func(node->right, parent, k-1, ans, vis);
         if(parent[node] != node) func(parent[node], parent, k-1, ans, vis);
-        vis[node] = 0;
+        // vis[node] = 0;
     }   
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
         if(!root) return {};
