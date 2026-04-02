@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0076-minimum-window-substring) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
