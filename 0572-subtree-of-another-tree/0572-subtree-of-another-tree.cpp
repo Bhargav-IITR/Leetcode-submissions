@@ -11,18 +11,19 @@
  */
 class Solution {
 public:
-    bool isSame(TreeNode* r1, TreeNode* r2){
-        if(!r1 && !r2) return true;
-        if((!r1 && r2)||(r1 && !r2)) return false;
-        if(r1->val != r2->val) return false;
-        return isSame(r1->left, r2->left)&&isSame(r1->right, r2->right);
+    void serialise(TreeNode* root, string &s){
+        if(!root){
+            s += "#,";
+            return;
+        }
+        s += "$" + to_string(root->val) + ",";
+        serialise(root->left, s);
+        serialise(root->right, s);
     }
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        if(!root) return false;
-
-        if(root->val == subRoot->val && isSame(root,subRoot)) return true;
-        if(isSubtree(root->left, subRoot)) return true;
-        if(isSubtree(root->right, subRoot)) return true;
-        return false;
+        string s,t;
+        serialise(root, s);
+        serialise(subRoot, t);
+        return s.find(t) != string::npos;
     }
 };
