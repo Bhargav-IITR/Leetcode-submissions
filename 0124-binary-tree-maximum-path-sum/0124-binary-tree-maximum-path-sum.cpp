@@ -17,7 +17,7 @@ public:
         int left = func(root->left);
         int right = func(root->right);
         ans = max(ans, max(root->val, max(left+right+root->val, max(left+root->val, right+root->val))));
-        return root->val + max(left, right);
+        return root->val + max(0, max(left, right));
     }
     int maxPathSum(TreeNode* root) {
         func(root);
