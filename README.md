@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1192-critical-connections-in-a-network](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -685,4 +688,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0332-reconstruct-itinerary) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
