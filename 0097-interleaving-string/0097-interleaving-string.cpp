@@ -19,8 +19,26 @@ public:
         return dp[i1][i2] = ans;
     }
     bool isInterleave(string s1, string s2, string s3) {
-        if(s1.length() + s2.length() != s3.length()) return false;
-        memset(dp, -1, sizeof(dp));
-        return func(0, 0, s1, s2, s3);
+        int n = s1.length();
+        int m = s2.length();
+
+        if(n + m != s3.length()) return false;
+
+        vector<vector<bool>> dp(n + 1, vector<bool>(m + 1, false));
+
+        // base case
+        dp[n][m] = true;
+        for(int i = n ; i >= 0 ; i--){
+            for(int j = m ; j >= 0 ; j--){
+                if(i < n && s1[i] == s3[i + j]) {
+                    dp[i][j] = dp[i][j] || dp[i + 1][j];
+                }
+
+                if(j < m && s2[j] == s3[i + j]) {
+                    dp[i][j] = dp[i][j] || dp[i][j + 1];
+                }
+            }
+        }
+        return dp[0][0];
     }
 };
