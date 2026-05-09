@@ -15,15 +15,18 @@ public:
         // memset(dp, -1, sizeof(dp));
         // return func(0,0,s,p);
         int n = s.length(), m = p.length();
-        vector <vector <bool>> dp(n+1, vector <bool> (m+1, false));
-        dp[n][m] = true;
+        vector <bool> next(m+1, false);
+        next[m] = true;
         for(int i = n ; i >= 0 ; i--){
+            vector <bool> curr(m+1, false);
+            curr[m] = (i == n);
             for(int j = m-1; j >= 0 ; j--){
                 bool match = (i<n)&&((s[i]==p[j])||(p[j] == '.'));
-                if(j+1 < m && p[j+1] == '*') dp[i][j] = dp[i][j+2]||(match && dp[i+1][j]);
-                else dp[i][j] = match&&dp[i+1][j+1];
+                if(j+1 < m && p[j+1] == '*') curr[j] = curr[j+2]||(match && next[j]);
+                else curr[j] = match&&next[j+1];
             }
+            next = curr;
         }
-        return dp[0][0];
+        return next[0];
     }
 };
