@@ -26,12 +26,13 @@ public:
         int n = lists.size();
         if(n == 0) return NULL;
         if(n == 1) return lists[0];
-        for(int i = 0; i < n ; i+=2){
-            if(i+1<n) {
-                ListNode* node = mergeLists(lists[i], lists[i+1]);
-                tmp.push_back(node);
-            }else tmp.push_back(lists[i]);
+        while(n > 1){
+            int k = (n+1)>>1;
+            for(int i= 0 ; i < n/2; i++){
+                lists[i] = mergeLists(lists[i], lists[i+k]);
+            }
+            n = k;
         }
-        return mergeKLists(tmp);
+        return lists[0];
     }
 };
