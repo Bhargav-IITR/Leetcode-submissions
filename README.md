@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1901-find-a-peak-element-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## String
 |  |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [1386-cinema-seat-allocation](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1903-largest-odd-number-in-string](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
