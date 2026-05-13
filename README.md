@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0169-majority-element) |
+| [0295-find-median-from-data-stream](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0368-largest-divisible-subset) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
+| [0295-find-median-from-data-stream](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0901-online-stock-span) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0937-online-stock-span) |
