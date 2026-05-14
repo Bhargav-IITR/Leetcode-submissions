@@ -9,24 +9,22 @@ public:
         while(!q.empty()){
             int size = q.size();
             ans++;
-            set <string> wordUsed;
             while(size--){
                 string s = q.front();
                 q.pop();
                 if(s == endWord) return ans;
                 for(int i = 0 ; i < s.length() ; i++){
-                    for(char c = 'a' ; c <= 'z' ; c++){
+                    for(char c = 'a' ; c <= 'z' ; c++){ 
                         char temp = s[i];
                         s[i] = c;
                         if(mp.find(s) != mp.end()){
                             q.push(s);
-                            wordUsed.insert(s);
+                            if(mp.find(s) != mp.end()) mp.erase(s);
                         }
                         s[i] = temp;
                     }
                 }
             }
-            for(string word : wordUsed) mp.erase(word);
         }
         return 0;
     }
