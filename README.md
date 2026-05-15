@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2374-node-with-highest-edge-score](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/2374-node-with-highest-edge-score) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1584-min-cost-to-connect-all-points) |
+| [2374-node-with-highest-edge-score](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/2374-node-with-highest-edge-score) |
 ## Topological Sort
 |  |
 | ------- |
