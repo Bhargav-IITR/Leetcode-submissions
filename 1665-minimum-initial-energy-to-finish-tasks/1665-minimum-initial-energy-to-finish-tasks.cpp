@@ -1,19 +1,18 @@
 class Solution {
 public:
     int minimumEffort(vector<vector<int>>& tasks) {
-        // Sort by buffer (min - actual) descending
-        sort(tasks.begin(), tasks.end(), [](const auto& a, const auto& b) {
-            return (a[1] - a[0]) > (b[1] - b[0]);
+        sort(tasks.begin(), tasks.end(), [](const auto& a, const auto& b){
+            return a[1]-a[0] > b[1]-b[0];
         });
-
-        int ans = 0, cur = 0;
-        for (auto& t : tasks) {
-            int actual = t[0], minimum = t[1];
-            if (cur < minimum) {
-                ans += minimum - cur;
-                cur = minimum;
+        //decreasing order of gap
+        int ans = 0, rem = 0;
+        for(auto it : tasks){
+            int mini = it[1], actual = it[0];
+            if(rem < mini){
+                ans += (mini-rem);
+                rem = mini;
             }
-            cur -= actual;
+            rem -= actual;
         }
         return ans;
     }
