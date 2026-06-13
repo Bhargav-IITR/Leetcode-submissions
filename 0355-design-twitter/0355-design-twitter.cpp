@@ -2,7 +2,6 @@ class Twitter {
 public:
     map <int, vector <pair<int, int>>> mp; // userId - vector of tweetIds of that userId
     vector <vector <int>> flw;
-    map <int, vector <int>> feed;
     int timer;
     Twitter(){
         this->timer = 0;
@@ -10,7 +9,7 @@ public:
         for(int i = 0; i < 501 ; i++) flw[i][i] = 1;
     }
 
-    void refreshFeed(int userId){
+    vector <int> refreshFeed(int userId){
         vector <int> followeeIds;
         for(int i = 0 ; i < 501 ; i++) if(flw[userId][i]) followeeIds.push_back(i);
         priority_queue <pair<int, int>> pq;
@@ -27,29 +26,24 @@ public:
             pq.pop();
             size--;
         }
-        feed[userId] = finalFeed;
+        return finalFeed;
     }
     
     void postTweet(int userId, int tweetId) {
         timer++;
         mp[userId].push_back({timer, tweetId});
-        for(int flwrId = 0 ; flwrId < 501 ; flwrId++){
-            if(flw[flwrId][userId]) refreshFeed(flwrId);
-        }
     }
     
     vector<int> getNewsFeed(int userId) {
-        return feed[userId];
+        return refreshFeed(userId);
     }
     
     void follow(int followerId, int followeeId) {
         flw[followerId][followeeId] = 1;
-        refreshFeed(followerId);
     }
     
     void unfollow(int followerId, int followeeId) {
         flw[followerId][followeeId] = 0;
-        refreshFeed(followerId);
     }
 };
 
