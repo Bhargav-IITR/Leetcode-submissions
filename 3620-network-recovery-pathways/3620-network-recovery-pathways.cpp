@@ -16,6 +16,7 @@ public:
         int ans = -1;
         while(lo <= hi){
             int mid = lo + (hi-lo)/2;
+            //Does there exist a path whose minimum edge weight is AT LEAST lst[mid][0]?
             if(possible(mid, lst, online.size(), k)) {
                 ans = mid;
                 lo = mid+1;
@@ -35,12 +36,11 @@ public:
             int u = edge[1], v = edge[2], w = edge[0];
             adj[u].push_back({v, w});
         }
-        vector <ll> dist0 = dijkstra(adj, 0);
-        ll dist = dist0[n-1];
+        ll dist = dijkstra(adj, 0, k);
         return (dist <= k);
     }
 
-    vector <ll> dijkstra(vector <vector <pair<int, int>>> &adj, int src){
+    ll dijkstra(vector <vector <pair<int, int>>> &adj, int src, int k){
         int n = adj.size();
         vector <ll> dist(n, LLONG_MAX);
         dist[src] = 0;
@@ -50,6 +50,12 @@ public:
             auto top = pq.top();
             pq.pop();
             ll d = top.first , node = top.second;
+            // Ignore stale entries
+            if (d > dist[node]) continue;
+
+            // Shortest path to destination found
+            if (node == n-1) return d;
+
             if(dist[node] < d) continue;
             for(auto adjNode : adj[node]){
                 ll node2 = adjNode.first , wt = adjNode.second;
@@ -59,7 +65,7 @@ public:
                 }
             }
         }
-        return dist;
+        return LLONG_MAX;
     }
 
 };
