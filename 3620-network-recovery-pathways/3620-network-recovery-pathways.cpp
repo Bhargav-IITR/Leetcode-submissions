@@ -50,6 +50,7 @@ public:
             auto top = pq.top();
             pq.pop();
             ll d = top.first , node = top.second;
+            if(dist[node] < d) continue;
             for(auto adjNode : adj[node]){
                 ll node2 = adjNode.first , wt = adjNode.second;
                 if(dist[node2] > d + wt){
