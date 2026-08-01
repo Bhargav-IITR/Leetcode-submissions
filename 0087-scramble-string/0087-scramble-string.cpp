@@ -12,9 +12,7 @@ public:
         for(int i = i1 ; i <= j1 ; i++) v[s1[i]-'a']++;
         for(int i = i2 ; i <= j2 ; i++) v[s2[i]-'a']--;
 
-        int sum =0;
-        for(int i = 0 ; i <26 ; i++) sum += v[i];
-        if(sum != 0) return dp[i1][j1][i2][j2] = false;
+        for(int i = 0 ; i <26 ; i++) if(v[i] != 0) return dp[i1][j1][i2][j2] = false;
 
         for(int k = i1 ; k < j1 ; k++){
             int lenLeft = k - i1 + 1;
