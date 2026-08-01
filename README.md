@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1197-parsing-a-boolean-expression) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1197-parsing-a-boolean-expression) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/2227-sum-of-subarray-ranges) |
 ## Recursion
