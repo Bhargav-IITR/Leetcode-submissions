@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0126-word-ladder-ii) |
