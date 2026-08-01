@@ -6,6 +6,16 @@ public:
     bool func(int i1, int j1, int i2, int j2, string &s1, string &s2){
         if(j1 == i1) return (s1[i1] == s2[i2]);
         if(dp[i1][j1][i2][j2] != -1) return dp[i1][j1][i2][j2];
+
+        //optmisation - check if character frequency matches for scramble : 
+        vector <int> v(26, 0);
+        for(int i = i1 ; i <= j1 ; i++) v[s1[i]-'a']++;
+        for(int i = i2 ; i <= j2 ; i++) v[s2[i]-'a']--;
+
+        int sum =0;
+        for(int i = 0 ; i <26 ; i++) sum += v[i];
+        if(sum != 0) return dp[i1][j1][i2][j2] = false;
+
         for(int k = i1 ; k < j1 ; k++){
             int lenLeft = k - i1 + 1;
             int lenRight = j1 - k;
