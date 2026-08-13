@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0743-network-delay-time) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0743-network-delay-time) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0778-swim-in-rising-water) |
 | [0803-bricks-falling-when-hit](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0803-bricks-falling-when-hit) |
@@ -770,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
