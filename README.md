@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1130-last-stone-weight-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1130-last-stone-weight-ii) |
+| [1140-stone-game-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1130-last-stone-weight-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1130-last-stone-weight-ii) |
+| [1140-stone-game-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Ordered Set
 |  |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1922-count-good-numbers) |
@@ -814,12 +818,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1140-stone-game-ii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
