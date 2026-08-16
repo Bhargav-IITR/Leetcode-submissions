@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0827-making-a-large-island) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0875-koko-eating-bananas](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0877-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0943-find-the-shortest-superstring](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0943-find-the-shortest-superstring) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0877-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0943-find-the-shortest-superstring](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0943-find-the-shortest-superstring) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1043-partition-array-for-maximum-sum) |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0233-number-of-digit-one) |
 | [0368-largest-divisible-subset](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0371-sum-of-two-integers) |
+| [0877-stone-game](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1922-count-good-numbers) |
@@ -807,4 +810,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0943-find-the-shortest-superstring](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0943-find-the-shortest-superstring) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
