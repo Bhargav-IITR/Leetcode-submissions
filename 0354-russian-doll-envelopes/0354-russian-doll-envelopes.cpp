@@ -16,7 +16,7 @@ public:
 
     int maxEnvelopes(vector<vector<int>>& envelopes) {
         int n = envelopes.size();
-        sort(envelopes.begin(), envelopes.end(), [](vector <int> a, vector <int> b){
+        sort(envelopes.begin(), envelopes.end(), [](const vector <int> &a, const vector <int> &b){
             if(a[0] == b[0]) return b[1] < a[1];
             return a[0] < b[0];
         });
