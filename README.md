@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1871-jump-game-vii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1871-jump-game-vii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/3620-network-recovery-pathways) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1871-jump-game-vii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1871-jump-game-vii) |
 | [1903-largest-odd-number-in-string](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1871-jump-game-vii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1871-jump-game-vii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1871-jump-game-vii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1871-jump-game-vii) |
 ## Ordered Set
 |  |
 | ------- |
