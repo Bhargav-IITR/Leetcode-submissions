@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0943-find-the-shortest-superstring](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0943-find-the-shortest-superstring) |
+| [0978-longest-turbulent-subarray](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0978-longest-turbulent-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0943-find-the-shortest-superstring](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0943-find-the-shortest-superstring) |
+| [0978-longest-turbulent-subarray](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0978-longest-turbulent-subarray) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1130-last-stone-weight-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1130-last-stone-weight-ii) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [0978-longest-turbulent-subarray](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0978-longest-turbulent-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
