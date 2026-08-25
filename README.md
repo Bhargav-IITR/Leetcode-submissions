@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0472-concatenated-words) |
+| [0649-dota2-senate](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0649-dota2-senate) |
 | [0686-repeated-string-match](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0943-find-the-shortest-superstring](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0943-find-the-shortest-superstring) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Hash Table
 |  |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0621-task-scheduler) |
+| [0649-dota2-senate](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0649-dota2-senate) |
 | [0846-hand-of-straights](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0846-hand-of-straights) |
 | [1386-cinema-seat-allocation](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
