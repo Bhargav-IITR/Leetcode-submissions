@@ -6,23 +6,15 @@ public:
         if((n%groupSize) != 0) return false;
         map <int, int> mp;
         for(int num : hand) mp[num]++;  
-        vector <int> vis(n, 0);
-        map <int, int> firstId;
-        for(int i = 0; i< n ; i++){
-            if(firstId.find(hand[i]) == firstId.end()) firstId[hand[i]] = i;
-        }
-        for(int i = 0 ; i < n ; i++){
-            if(vis[i]) continue;
-            int num = hand[i];
-            while(num <= hand[i] + groupSize-1){
-                auto it = lower_bound(hand.begin(), hand.end(), num);
-                if(it == hand.end()) return false;
-                if(*it != num) return false;
-                if(mp[num] == 0) return false;   
-                vis[firstId[num]] = 1;
-                firstId[num]++;
-                mp[num]--; 
-                num++;
+        while(!mp.empty()){
+            int lowestCard = (*mp.begin()).first;
+            int temp = lowestCard;
+            while(temp <= lowestCard + groupSize-1){
+                if(mp[temp] > 0){
+                    mp[temp]--;
+                    if(mp[temp] == 0) mp.erase(temp);
+                }else return false;
+                temp++;
             }
         }
         return true;
