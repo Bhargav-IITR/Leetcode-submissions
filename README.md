@@ -717,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-find-the-shortest-superstring](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0943-find-the-shortest-superstring) |
 | [1386-cinema-seat-allocation](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3133-minimum-array-end](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/3133-minimum-array-end) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
