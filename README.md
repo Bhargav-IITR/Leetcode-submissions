@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0233-number-of-digit-one) |
+| [0279-perfect-squares](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0312-burst-balloons) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0542-01-matrix) |
@@ -728,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0060-permutation-sequence) |
 | [0233-number-of-digit-one](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0233-number-of-digit-one) |
+| [0279-perfect-squares](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0877-stone-game) |
@@ -869,4 +872,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
