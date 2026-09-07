@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0312-burst-balloons) |
+| [0343-integer-break](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0060-permutation-sequence) |
 | [0233-number-of-digit-one](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0877-stone-game) |
