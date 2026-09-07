@@ -1,57 +1,39 @@
 class Solution {
 public:
-    pair<int, int> dp[101][2][102];
+    int dp[101][102];
 
-    pair<int, int> func(int i, int turn, int m, vector<int>& piles) {
+    int func(int i, int m, vector<int>& piles) {
         int n = piles.size();
 
-        if (i >= n) return {0, 0};
+        if (i >= n) return 0;
 
-        if (dp[i][turn][m] != make_pair(-1, -1))
-            return dp[i][turn][m];
+        if (dp[i][m]!= -1)
+            return dp[i][m];
 
         int sum = 0;
         int X = 2 * m;
 
-        pair<int, int> ans = {-1, -1};
-        int maxi = INT_MIN;
+        int ans = INT_MIN;
 
         for (int k = i; k < min(i + X, n); k++) {
             sum += piles[k];
 
             auto p = func(
                 k + 1,
-                turn ^ 1,
                 max(m, k - i + 1),
                 piles
             );
-
-            if (turn) { // Alice
-                int aliceScore = sum + p.first;
-
-                if (aliceScore > maxi) {
-                    maxi = aliceScore;
-                    ans = {aliceScore, p.second};
-                }
-            }
-            else { // Bob
-                int bobScore = sum + p.second;
-
-                if (bobScore > maxi) {
-                    maxi = bobScore;
-                    ans = {p.first, bobScore};
-                }
-            }
+            ans = max(ans, sum - p);
         }
 
-        return dp[i][turn][m] = ans;
+        return dp[i][m] = ans;
     }
 
     int stoneGameII(vector<int>& piles) {
         memset(dp, -1, sizeof(dp));
+int total = accumulate(piles.begin(), piles.end(), 0);
+        auto ans = func(0, 1, piles);
 
-        auto ans = func(0, 1, 1, piles);
-
-        return ans.first;
+        return (total+ans)>>1;
     }
 };
