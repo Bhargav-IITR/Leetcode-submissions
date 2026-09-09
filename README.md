@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0735-asteroid-collision) |
+| [0752-open-the-lock](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0778-swim-in-rising-water) |
 | [0803-bricks-falling-when-hit](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0803-bricks-falling-when-hit) |
 | [0827-making-a-large-island](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0827-making-a-large-island) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0649-dota2-senate) |
 | [0686-repeated-string-match](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0763-partition-labels) |
 | [0943-find-the-shortest-superstring](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0943-find-the-shortest-superstring) |
 | [0981-time-based-key-value-store](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0981-time-based-key-value-store) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0744-network-delay-time) |
+| [0752-open-the-lock](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
@@ -882,4 +886,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0279-perfect-squares) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
