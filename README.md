@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1462-course-schedule-iv](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1300-critical-connections-in-a-network](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1300-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Search Tree
@@ -836,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1192-critical-connections-in-a-network](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1462-course-schedule-iv](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1462-course-schedule-iv) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2374-node-with-highest-edge-score](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/2374-node-with-highest-edge-score) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -846,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
+| [1462-course-schedule-iv](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1462-course-schedule-iv) |
 | [3620-network-recovery-pathways](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/3620-network-recovery-pathways) |
 ## Quickselect
 |  |
