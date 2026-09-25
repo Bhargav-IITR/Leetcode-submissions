@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0332-reconstruct-itinerary) |
+| [0394-decode-string](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0443-string-compression) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0233-number-of-digit-one) |
+| [0394-decode-string](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1197-parsing-a-boolean-expression) |
 | [1922-count-good-numbers](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/1922-count-good-numbers) |
 ## Design
