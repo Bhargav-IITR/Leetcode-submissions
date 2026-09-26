@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0368-largest-divisible-subset](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0368-largest-divisible-subset) |
+| [0399-evaluate-division](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0472-concatenated-words](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0472-concatenated-words) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0332-reconstruct-itinerary) |
 | [0394-decode-string](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0443-string-compression) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0547-number-of-provinces) |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0472-concatenated-words](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
@@ -687,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0744-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -827,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0130-surrounded-regions) |
+| [0399-evaluate-division](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0685-redundant-connection-ii) |
@@ -847,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0133-clone-graph) |
 | [0332-reconstruct-itinerary](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0685-redundant-connection-ii) |
@@ -917,4 +924,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0752-open-the-lock](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0752-open-the-lock) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Bhargav-IITR/Leetcode-submissions/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
